@@ -1,17 +1,17 @@
 <?php $pages = array (
   0 => 
   array (
-    'label' => 'Home',
+    'label' => 'Anjung',
     'page_slug' => 'home',
   ),
   1 => 
   array (
-    'label' => 'About',
+    'label' => 'Tentang',
     'page_slug' => 'about',
   ),
   2 => 
   array (
-    'label' => 'Contact',
+    'label' => 'Hubungi',
     'page_slug' => 'contact',
   ),
 );?>
